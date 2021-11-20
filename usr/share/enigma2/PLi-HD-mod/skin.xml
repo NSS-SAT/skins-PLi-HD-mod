@@ -1291,7 +1291,6 @@
   </screen>
   <screen name="PluginBrowser" position="fill" flags="wfNoBorder">
     <panel name="PigTemplate" />
-    <panel name="ButtonTemplate2" />
     <eLabel text="Plugin browser" position="85,30" size="1085,55" backgroundColor="secondBG" transparent="1" zPosition="1" font="Regular;24" valign="center" halign="left" />
     <widget name="list" position="590,110" size="630,500" font="Regular;26" scrollbarMode="showOnDemand" selectionPixmap="PLi-HD-mod/buttons/sel.png" />
   </screen>
