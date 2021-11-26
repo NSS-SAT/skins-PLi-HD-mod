@@ -1291,6 +1291,7 @@
   </screen>
   <screen name="PluginBrowser" position="fill" flags="wfNoBorder">
     <panel name="PigTemplate" />
+    <panel name="ButtonTemplate2" />
     <eLabel text="Plugin browser" position="85,30" size="1085,55" backgroundColor="secondBG" transparent="1" zPosition="1" font="Regular;24" valign="center" halign="left" />
     <widget name="list" position="590,110" size="630,500" font="Regular;26" scrollbarMode="showOnDemand" selectionPixmap="PLi-HD-mod/buttons/sel.png" />
   </screen>
@@ -1936,7 +1937,7 @@
     <eLabel text="About" position="85,30" size="1085,55" backgroundColor="secondBG" transparent="1" zPosition="1" font="Regular;24" valign="center" halign="left" />
     <eLabel text="Info" backgroundColor="secondBG" font="Regular;22" halign="left" position="460,645" size="220,26" transparent="1" zPosition="1" />
     <widget name="AboutScrollLabel" font="Regular;22" position="635,125" size="580,500" zPosition="2" halign="center" />
-    <eLabel name="new eLabel" position="693,643" size="507,29" text="Pli-Hd Nss mod" foregroundColor="uneeeeee" transparent="1" font="Regular; 22" halign="center" />
+    <eLabel name="new eLabel" position="693,643" size="507,29" text="SkIn PLi-HD-mod by MarcinO" foregroundColor="uneeeeee" transparent="1" font="Regular; 22" halign="center" />
   </screen>
   <screen flags="wfNoBorder" name="AboutReleaseNotes" position="fill" title="Release Notes">
     <panel name="PigTemplate" />
